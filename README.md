@@ -1,4 +1,4 @@
-# final-project
+# Quantitative trading with strategies
 final project for the programming course
 
 # about
